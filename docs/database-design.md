@@ -47,7 +47,7 @@ The Authentications table lists supported authentication methods (e.g. SSO, LDAP
   </thead>
   <tbody>
     <tr>
-      <td>auid</td>
+      <td>id</td>
       <td>Authentication ID, primary key</td>
     </tr><tr>
       <td>name</td>
@@ -55,6 +55,53 @@ The Authentications table lists supported authentication methods (e.g. SSO, LDAP
     </tr><tr>
       <td>active</td>
       <td>A Boolean flag indicates whether the selected authentication method is active.</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Divisions
+
+Lookup table for information about the divisions within a business or the colleges within a university.
+
+<table>
+  <thead>
+    <tr>
+      <th width="240">Field</th>
+      <th width="658">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>id</td>
+      <td>Division ID, primary key</td>
+    </tr><tr>
+      <td>name</td>
+      <td>Names of divisions (industry), colleges (higher education)</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Departments
+
+Lookup table for the sub groups of divisions.
+
+<table>
+  <thead>
+    <tr>
+      <th width="240">Field</th>
+      <th width="658">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>id</td>
+      <td>Department ID, primary key</td>
+    </tr><tr>
+      <td>name</td>
+      <td>Names of departments</td>
+    </tr><tr>
+      <td>divsid</td>
+      <td>Divisions ID, foreign key to table `Divisions`</td>
     </tr>
   </tbody>
 </table>
