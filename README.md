@@ -1,6 +1,6 @@
 # Ticketopia
 
-Ticketopia is a unified platform designed to enhance IT service management (ITSM) by combining a powerful ticketing system with an intuitive self-service knowledge base.
+Ticketopia is a unified platform designed to enhance IT Service Management (ITSM) by combining a powerful ticketing system with an intuitive self-service knowledge base.
 
 Designed to streamline IT operations, Ticketopia empowers organizations to efficiently manage incidents, service requests, and change management processes. By integrating a knowledge base, it enables users to find solutions to common problems independently, reducing the burden on support teams and improving overall productivity.
 
@@ -11,5 +11,6 @@ Whether you're handling routine IT tasks or managing complex service workflows, 
 ## Table of Content
 
 1. [Overview](docs/overview.md)
+1. [Subscription](docs/subscription-plan.md)
 1. [Application Programming Interface](api.md)
-1. [Database Design](docs/database-design.md)
+
