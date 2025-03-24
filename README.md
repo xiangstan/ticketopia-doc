@@ -11,6 +11,10 @@ Whether you're handling routine IT tasks or managing complex service workflows, 
 ## Table of Content
 
 1. [Overview](docs/overview.md)
+1. [Business Plan](docs/business-plan.md)
+   1. [Product Roadmap](docs/roadmap.md)
+   1. [Detailed Financial Projections](docs/financial-projections.md)
+   1. [Sample Partnership Agreement](docs/partnership-agreement.md)
 1. [Subscription](docs/subscription-plan.md)
 1. [Application Programming Interface](api.md)
 
