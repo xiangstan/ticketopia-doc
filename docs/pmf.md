@@ -1,6 +1,23 @@
 # Product/Market Fit (PMF) Framework
+
 **Product**: Ticketopia
-**Target Market**: Small-to-midsize businesses (SMBs) in [specific industries, e.g., IT agencies, e-commerce]  
+
+## Target Market  
+
+### **Primary Audience**  - Our goal
+
+**Small-to-Midsize Businesses (SMBs)** and **IT teams** in:  
+
+- **Higher Education** – Universities, colleges, and schools needing a simple IT/helpdesk solution.  
+- **Nonprofits & Local Government** – Budget-conscious orgs needing a modern, cost-effective ticketing system.  
+- **IT Service Providers & MSPs** – Managed IT providers needing a **multi-client** ticketing solution.  
+- **Tech & SaaS Startups** – Growing companies with lean IT teams managing internal support.  
+
+### **Secondary Audience** - Nice to have
+
+- **Healthcare Organizations** – Clinics, hospitals, and medical offices with IT helpdesk needs.  
+- **Cloud & DevOps Teams** – Companies managing infrastructure & DevOps with integrations (e.g., Ansible, Zabbix).  
+- **Retail & E-commerce** – Businesses that need an internal helpdesk for IT or logistics teams.  
 
 ---
 
