@@ -4,7 +4,7 @@
 
 ## Target Market  
 
-### **Primary Audience**  - Our goal
+### **Primary Audience** - Our goal
 
 **Small-to-Midsize Businesses (SMBs)** and **IT teams** in:  
 
@@ -140,7 +140,6 @@
    - **API for custom integrations**: Enable easy integration with third-party tools (e.g., Monday.com, Ansible Tower, SnipeIT) via a well-documented API.  
    - **Migration tool for osTicket/Spiceworks users**: Offer a migration tool to easily transfer ticket data from osTicket or Spiceworks into the new system to facilitate a smooth transition.  
 
-
 ---
 
 ## Competitive Differentiation  
@@ -162,7 +161,6 @@
 ✔ **Built-in time tracking** (track IT staff effort per ticket)  
 ✔ **Seamless third-party integrations** (Monday.com, Ansible, SnipeIT, Zabbix, etc.)  
 ✔ **Fast setup & onboarding** (up and running in minutes)  
-
 
 ---
 
