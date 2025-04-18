@@ -42,6 +42,7 @@ We're researching how IT teams manage support tickets and knowledge base (KB) co
    - [ ] ServiceNow
    - [ ] Zendesk
    - [ ] Freshdesk
+   - [ ] No supported software - (phone for support)
    - [ ] Other: _____________
 
 5. **How satisfied are you with your current ticketing system?**
@@ -78,6 +79,7 @@ We're researching how IT teams manage support tickets and knowledge base (KB) co
 
 10. **Which tools or platforms would you like your ticketing system to integrate with?**
     _(Check all that apply)_
+    _(Tell us which tools your ticketing system connects with (e.g., monitoring, collaboration, or asset management tools) to improve IT support efficiency.)_
     - [ ] Slack
     - [ ] Microsoft Teams
     - [ ] Discord
@@ -87,7 +89,7 @@ We're researching how IT teams manage support tickets and knowledge base (KB) co
     - [ ] Zabbix / Nagios / Icinga
     - [ ] Other: _____________
 
-11. **How long did it take to set up your current ticketing solution?**
+12. **How long did it take to set up your current ticketing solution?**
     - [ ] Less than 1 day
     - [ ] 1–2 days
     - [ ] 1–2 weeks
